@@ -1,5 +1,3 @@
-# ctcae-ae-tracking
-
 # LLM-Assisted Longitudinal Adverse Event Tracking in Clinical Trials
 
 AI-assisted framework for standardized, longitudinal CTCAE-based adverse event (AE) extraction, normalization, grading, and patient-level timeline consolidation in oncology clinical trials.

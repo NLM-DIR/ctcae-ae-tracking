@@ -88,3 +88,5 @@ Example:
 - Resolution handling
 - Grade evolution across visits
 - Recurrence detection
+
+![Patient-Level AE Timeline](figures/Patient_Level_AE_Timeline.png)

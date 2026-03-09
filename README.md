@@ -39,7 +39,7 @@ This framework explicitly aligns extraction and normalization to CTCAE v5.0.
 ---
 ## Pipeline Overview
 
-![Agent Overview](figures/Agent-Overview.png)
+![Agent Overview](figures/Agent-Overview.jpg)
 
 ## Framework Architecture
 

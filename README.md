@@ -26,7 +26,6 @@ The system integrates LLM reasoning with ontology-guided semantic retrieval and 
 
 Adverse events in oncology trials are standardized using:
 
-- **National Cancer Institute (NCI)**
 - **Common Terminology Criteria for Adverse Events (CTCAE v5.0)**
 
 CTCAE defines:
